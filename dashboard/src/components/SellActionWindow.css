@@ -1,0 +1,15 @@
+.sell-window {
+    border: 2px solid rgb(238, 238, 238);
+    background-color: #ffecec;
+  }
+  
+  .sell-window .btn-red {
+    background-color: red;
+    color: white;
+  }
+  
+  .sell-window .btn-grey {
+    background-color: #666666;
+    color: white;
+  }
+  
